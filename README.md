@@ -1,4 +1,7 @@
 ## Hi there 👋
+My Name is Brayden Bomba (Bebomba@my.waketech.edu)
+This is my school GitHub account that I will be using for various assignments and projects throughout this semester and academic year. 
+This repository specifically will hold all my assignments for my Web programming and Database foundations course. (CTI-110) 
 
 <!--
 **BraydenBomba22/BraydenBomba22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
